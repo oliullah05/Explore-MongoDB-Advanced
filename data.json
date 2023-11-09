@@ -1,0 +1,228 @@
+[
+    {
+      "name": "iPhone 13 Pro Max",
+      "description": "Apple's most advanced smartphone ever, with a new A15 Bionic chip, Super Retina XDR display with 120Hz ProMotion, and a pro camera system with Cinematic mode. Available in four stunning colors: Graphite, Sierra Blue, Gold, and Silver.",
+      "price": 1099,
+      "category": "Electronics",
+      "image": "https://store.apple.com/xc/product/MVH23LL/A/iphone-13-pro-max-graphite"
+    },
+    {
+      "name": "Nike Air Zoom Pegasus 38 Running Shoes",
+      "description": "The Nike Air Zoom Pegasus 38 is the perfect running shoe for all levels of runners. It features a new React foam midsole for a soft and responsive ride, and an updated upper for a more comfortable fit.",
+      "price": 120,
+      "category": "Apparel",
+      "image": "https://www.nike.com/t/air-zoom-pegasus-38-mens-running-shoe-Bq1316-002/AQ2631-002"
+    },
+    {
+      "name": "Sony PlayStation 5 Console",
+      "description": "The PlayStation 5 is the latest and greatest video game console from Sony. It features a powerful new CPU and GPU for incredibly fast loading times and stunning graphics.",
+      "price": 499,
+      "category": "Electronics",
+      "image": "https://www.playstation.com/en-us/explore/ps5/console/"
+    },
+    {
+      "name": "Samsung 65-Inch Class 4K Crystal UHD Smart TV",
+      "description": "This Samsung 65-inch 4K Crystal UHD Smart TV is the perfect way to enjoy your favorite movies and TV shows. It features a stunning 4K display, a powerful processor, and a variety of smart features.",
+      "price": 799,
+      "category": "Electronics",
+      "image": "https://www.samsung.com/us/televisions/4k-uhd/4k-uhd-led-smart-tv-65-tu8000/"
+    },
+    {
+      "name": "Instant Pot Duo Plus 8 Quart 9-in-1 Programmable Electric Pressure Cooker",
+      "description": "The Instant Pot Duo Plus 8 Quart 9-in-1 Programmable Electric Pressure Cooker is a versatile kitchen appliance that can be used to cook a variety of dishes, including rice, beans, meat, vegetables, and even desserts.",
+      "price": 129,
+      "category": "Home & Kitchen",
+      "image": "https://www.instantpot.com/products/duo-plus-8-quart/"
+    },
+   
+    {
+      "name": "LEGO Creator Expert Ford Mustang",
+      "description": "Build and display a LEGO replica of the iconic Ford Mustang. This detailed model features realistic features such as a detailed engine, opening hood, and opening doors.",
+      "price": 179.99,
+      "category": "Toys & Games",
+      "image": "https://www.lego.com/en-us/product/lego-creator-expert-ford-mustang-42138"
+    },
+    {
+        "name": "Dyson Airwrap Complete Styler",
+        "description": "The Dyson Airwrap Complete Styler is a versatile hair styling tool that can be used to curl, straighten, wave, and volumize your hair. It uses Coanda airflow to style your hair without heat damage.",
+        "price": 549.99,
+        "category": "Beauty & Personal Care",
+        "image": "https://www.dyson.com/us/en/products/hair-care/airwrap/complete.html"
+      },
+      {
+        "name": "Logitech MX Master 3 Advanced Wireless Mouse",
+        "description": "The Logitech MX Master 3 Advanced Wireless Mouse is a high-performance mouse that is designed for productivity. It features a comfortable design, a variety of buttons, and a long battery life.",
+        "price": 129.99,
+        "category": "Computers & Electronics",
+        "image": "https://www.logitech.com/en-us/products/mice/mx-master-3.html"
+      },
+      {
+        "name": "Bose QuietComfort 45 Noise Cancelling Headphones",
+        "description": "The Bose QuietComfort 45 Noise Cancelling Headphones are a comfortable and effective way to block out noise. They feature active noise cancellation technology that can reduce noise levels by up to 99%.",
+        "price": 279.95,
+        "category": "Electronics",
+        "image": "https://www.bose.com/en_us/products/headphones/quietcomfort-headphones/quietcomfort-45.html"
+      },
+      {
+        "name": "Apple Watch Series 7 GPS",
+        "description": "The Apple Watch Series 7 GPS is the latest and greatest smartwatch from Apple. It features a larger, more durable display, a faster processor, and a variety of new health and fitness tracking features.",
+        "price": 399.99,
+        "category": "Electronics",
+        "image": "https://www.apple.com/watch/series-7/"
+      },
+      {
+        "name": "Philips Hue White and Color Ambiance Smart Bulb Starter Kit",
+        "description": "The Philips Hue White and Color Ambiance Smart Bulb Starter Kit is a great way to start your smart home journey. It includes two smart bulbs that can be controlled with your smartphone or voice assistant.",
+        "price": 69.99,
+        "category": "Smart Home",
+        "image": "https://www.philips-hue.com/en-us/products/starter-kits/white-and-color-ambiance.html"
+      },
+      {
+        "name": "Nintendo Switch OLED Model",
+        "description": "The Nintendo Switch OLED Model is the latest and greatest Nintendo Switch console. It features a larger, OLED display, improved speakers, and a more durable dock.",
+        "price": 349.99,
+        "category": "Gaming",
+        "image": "https://www.nintendo.com/switch/oled-model/"
+      },
+      {
+        "name": "Sony PlayStation 5 Digital Edition",
+        "description": "The Sony PlayStation 5 Digital Edition is a disc-less version of the PlayStation 5 console. It is the perfect console for gamers who prefer to download their games digitally.",
+        "price": 499.99,
+        "category": "Gaming",
+        "image": "https://www.playstation.com/en-us/explore/ps5/digital-edition/"
+      },
+      {
+        "name": "Xbox Series X",
+        "description": "The Xbox Series X is the most powerful video game console ever created. It features a custom-designed CPU and GPU that deliver incredible performance and stunning graphics.",
+        "price": 499.99,
+        "category": "Gaming",
+        "image": "https://www.xbox.com/en-US/consoles/xbox-series-x"
+      },
+      {
+        "name": "Samsung Galaxy S23 Ultra",
+        "description": "The latest and greatest flagship smartphone from Samsung. It features a powerful new processor, a stunning AMOLED display, and a versatile camera system.",
+        "price": 1199.99,
+        "category": "Electronics",
+        "image": "https://www.samsung.com/us/smartphones/galaxy-s23-ultra/images/hero-gallery/hero-image-2.jpg"
+      },
+      {
+        "name": "Apple MacBook Pro 14",
+        "description": "The latest and greatest laptop from Apple. It features a M2 chip, a beautiful Liquid Retina XDR display, and a variety of ports.",
+        "price": 1499.99,
+        "category": "Computers & Electronics",
+        "image": "https://www.apple.com/macbook-pro/specs/"
+      },
+      {
+        "name": "Asus ROG Zephyrus G14",
+        "description": "A powerful gaming laptop that is also thin and light enough to carry around with you. It features an AMD Ryzen 9 processor, an NVIDIA GeForce RTX 3060 graphics card, and a 14-inch QHD display.",
+        "price": 1699.99,
+        "category": "Electronics",
+        "image": "https://rog.asus.com/laptops/rog-zephyrus/rog-zephyrus-g14-2023/"
+      },
+      {
+        "name": "Sony WH-1000XM5",
+        "description": "The latest and greatest noise-cancelling headphones from Sony. They feature improved noise cancellation, a more comfortable design, and longer battery life.",
+        "price": 399.99,
+        "category": "Electronics",
+        "image": "https://www.sony.com/electronics/headphones/wh-1000xm5/overview"
+      },
+      {
+        "name": "Bose QuietComfort Earbuds",
+        "description": "A pair of comfortable and effective noise-cancelling earbuds. They feature a long battery life and a variety of features, such as transparency mode and adaptive EQ.",
+        "price": 249.95,
+        "category": "Electronics",
+        "image": "https://www.bose.com/products/headphones/earbuds/quietcomfort-earbuds.html"
+      },
+      {
+        "name": "AirPods Pro",
+        "description": "The best-selling wireless earbuds on the market. They offer great sound quality, active noise cancellation, and a comfortable fit.",
+        "price": 199.99,
+        "category": "Electronics",
+        "image": "https://www.apple.com/airpods-pro/"
+      },
+      {
+        "name": "Instant Pot Duo Crisp Air Fryer Max",
+        "description": "A multicooker that can be used for pressure cooking, slow cooking, air frying, and more. It is a great option for people who want a versatile kitchen appliance.",
+        "price": 129.99,
+        "category": "Home & Kitchen",
+        "image": "https://instantpot.com/duo-crisp/"
+      },
+      {
+        "name": "Ninja Foodi Max XL 9-in-1 Indoor Grill & Air Fryer",
+        "description": "Another versatile kitchen appliance that can be used for grilling, air frying, baking, and more. It is a great option for people who want a healthy and convenient way to cook their meals.",
+        "price": 299.99,
+        "category": "Home & Kitchen",
+        "image": "https://ninjakitchen.com/collections/foodi-max-grill-and-air-fryer"
+      },
+      {
+        "name": "Google Pixel 7 Pro",
+        "description": "The latest flagship smartphone from Google. It features a new Tensor chip, a triple-lens camera system, and a long battery life.",
+        "price": 899.99,
+        "category": "Electronics",
+        "image": "https://store.google.com/us/product/pixel_7_pro?hl=en-US"
+      },
+      {
+        "name": "Samsung Frame TV",
+        "description": "A smart TV that can be used as a piece of art when it's not in use. It features a high-quality display, a variety of art modes, and a sleek design.",
+        "price": 999.99,
+        "category": "Electronics",
+        "image": "https://www.samsung.com/us/televisions/the-frame/"
+      },
+      {
+        "name": "Apple AirPods Max",
+        "description": "Over-ear wireless headphones from Apple. They feature active noise cancellation, spatial audio, and a comfortable fit.",
+        "price": 549.99,
+        "category": "Electronics",
+        "image": "https://www.apple.com/airpods-max/"
+      },
+      {
+        "name": "Oura Ring 3",
+        "description": "A smart ring that tracks your sleep, heart rate, and activity levels. It is a great option for people who want to track their fitness and overall health.",
+        "price": 299.99,
+        "category": "Wearables",
+        "image": "https://ouraring.com/"
+      },
+      {
+        "name": "Whoop Strap 4.0",
+        "description": "Another smart fitness tracker, the Whoop Strap 4.0 tracks your sleep, heart rate, and activity levels. It also provides personalized recovery recommendations.",
+        "price": 300.00,
+        "category": "Wearables",
+        "image": "https://www.whoop.com/"
+      },
+      {
+        "name": "Peloton Bike+ Guide",
+        "description": "A stationary bike with a built-in touchscreen display. It offers a variety of live and on-demand fitness classes.",
+        "price": 2495.00,
+        "category": "Fitness",
+        "image": "https://www.onepeloton.com/bike-plus-guide"
+      },
+      {
+        "name": "Tonal",
+        "description": "A home gym system that uses digital weights and artificial intelligence to provide personalized workouts.",
+        "price": 2999.00,
+        "category": "Fitness",
+        "image": "https://www.tonal.com/"
+      },
+      {
+        "name": "Ninja CT670 Air Fryer",
+        "description": "A countertop air fryer that can be used to cook a variety of foods, including chicken, fish, vegetables, and more.",
+        "price": 99.99,
+        "category": "Home & Kitchen",
+        "image": "https://ninjakitchen.com/products/ninja-max-xl-air-fryer-ct670/"
+      },
+      {
+        "name": "Instant Pot Vortex 6 Quart Air Fryer",
+        "description": "Another popular air fryer, the Instant Pot Vortex 6 Quart Air Fryer can be used to cook a variety of foods, including chicken, fish, vegetables, and more.",
+        "price": 129.99,
+        "category": "Home & Kitchen",
+        "image": "https://instantpot.com/vortex-6-quart-air-fryer/"
+      },
+      {
+        "name": "Vitamix A3500 Blender",
+        "description":" A high-powered blender that can be used to make smoothies, soups, sauces, and more. It is a great option for people who want a versatile kitchen appliance.",
+        "price": 499.95,
+        "category": "Home & Kitchen",
+        "image": "https://www.vitamix.com/shop/blenders/personal-blenders/a3500-personal-blender-black?item=522772"
+      }
+  ]
+  
