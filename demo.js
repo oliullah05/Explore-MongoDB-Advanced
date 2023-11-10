@@ -34,11 +34,6 @@ async function run() {
 
 
         const productsCollection = client.db("productsDB").collection("users")
-
-
-
-
-
         app.get("/", (req, res) => {
             res.send("server is running")
         })
@@ -47,8 +42,6 @@ async function run() {
 
         //get all data
 
-
-
         app.get("/users", async (req, res) => {
             const data = req.body;
             // console.log(data);     
@@ -56,6 +49,15 @@ async function run() {
             const products = await cursor.toArray();
             res.send(products)
         })
+
+
+
+
+
+
+
+
+
 
 
         // Send a ping to confirm a successful connection
@@ -67,9 +69,6 @@ async function run() {
     }
 }
 run().catch(console.dir);
-
-
-
 
 
 
