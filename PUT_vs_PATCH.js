@@ -58,6 +58,63 @@ async function run() {
         })
 
 
+        // update data all ==> put must update all poperty othewise this will be null > put can add new property
+
+
+        app.put("/users/:email", async (req, res) => {
+            const userEmail = req.params.email;
+            const filter = { email: userEmail };
+            // const getUpdateDataFromClient = req.body;
+            // const {
+            //     name,
+            //     age,
+            //     email,
+            //     proffesion
+            // } = getUpdateDataFromClient;
+
+            const updateDoc = {
+                $set: {
+                    name: req.body.name,
+                    age: req.body.age,
+                    email: req.body.email,
+                    proffesion: req.body.proffesion
+                }
+            }
+            const option = { upsert: true }
+            const result = await productsCollection.updateOne(filter, updateDoc, option)
+            res.send(result)
+        })
+
+
+
+
+                //   update single data > put update only spaciq poperty but put change all property
+
+
+
+
+app.patch("/users/:id",async(req,res)=>{
+    const getId = req.params.id;
+    const filter = {_id:new ObjectId(getId)};
+    const clientData = req.body;
+   const updateDoc ={
+    $set:clientData
+   }
+    const result = await productsCollection.updateOne(filter,updateDoc)
+    res.send(result)
+})
+
+
+
+
+
+
+
+
+
+
+
+
         // Send a ping to confirm a successful connection
         await client.db("admin").command({ ping: 1 });
         console.log("Pinged your deployment. You successfully connected to MongoDB!");
@@ -67,10 +124,6 @@ async function run() {
     }
 }
 run().catch(console.dir);
-
-
-
-
 
 
 
